@@ -1,0 +1,29 @@
+body{
+background-color: rgb(104, 130, 170);
+}
+.glavniy-div{
+    width: 600px;
+    height: 270px;
+    background-color: #fff;
+    border-radius: 3px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+}
+h3{
+    color: cornflowerblue;
+}
+p{
+    color: grey;
+}
+.prices{
+    color: cornflowerblue;
+}
+.div-1{
+    width: 700px;
+    height: 250px;
+    background-color: rgb(181, 181, 181);
+    opacity: 0.9;
+    border-radius: 3px;
+}

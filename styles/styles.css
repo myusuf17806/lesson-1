@@ -1,0 +1,51 @@
+.box-1{
+    width: 445px;
+    height: 150px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    
+}
+body{
+   background-color: rgb(213, 213, 213);
+}
+strong{
+    font-size: 200%;
+}
+a{
+    width: 50px;;height: 20px;
+    background-color: rgb(67, 184, 112);
+    border-radius: 5px;
+    display: block;
+    text-decoration: none;
+    color: aliceblue;
+    
+}
+.box-2{
+
+    background-color: rgb(52, 194, 187);
+    border-radius: 5px; 
+    width: 200px;
+    padding: 0 15px;
+    display: inline-block;
+    
+}
+.box-3{
+    padding-top: 1%; 
+    padding-left: 1%; 
+    padding-right: 1%; 
+    padding-bottom: 1%; 
+    background-color: rgb(108, 208, 203); 
+    border-radius: 5px; 
+    width: 200px;
+    
+}
+.glavniy-box{
+    display: flex;
+
+}
+h3{
+    color: aliceblue;
+}
+p{
+    color: aliceblue;
+}
